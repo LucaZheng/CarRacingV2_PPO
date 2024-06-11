@@ -1,4 +1,5 @@
 # CarRacingV2_PPO
+model weights: https://drive.google.com/drive/folders/1-1WrES5ZRfG7Xigpol0XYOGEDtB35VRG?usp=drive_link
 
 I decided to write this article because I recognize the immense benefits of using simple gaming environments to explore and understand how and why the PPO method works. However, I've noticed that while many researchers have experimented with this particular environment, they've often left gaps in addressing its inherent weaknesses. Therefore, in this article, I will cover the following topics, and I will also share my code and the final weights of my model:How I customized and trained my agent.
 1.	The issues I have encountered and how I solved them
