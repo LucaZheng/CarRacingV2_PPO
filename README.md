@@ -68,7 +68,7 @@ In my opinion, this environment is underdeveloped but has so much potential. Wit
 3.	Data Volume: Do you have enough data for the model to train effectively? Adjust the batch size based on your needs.
 4.	Training Loop Logic: Is the logic correct? Are the indentations and nesting logic correct?
 5.	Agent Behavior: Observe how the agent acts under certain conditions. Ask why it behaves that way and investigate the reasons.
-6.	
+   
 **Recommendation for Improvements in the Environment**
 The Car Racing environment has several limitations that make training difficult without some level of customization. Here are a few improvements that could make the training process more manageable:
 1.	Time-out Function: A function that can auto-detect whether the car is outside the track, how far the car is from the track, etc.
